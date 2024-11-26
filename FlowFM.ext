@@ -1,0 +1,18 @@
+
+QUANTITY=airpressure_windx_windy
+FILENAME=meteo_data.apwxwy
+FILETYPE=6
+METHOD=3
+OPERAND=+
+
+QUANTITY=humidity_airtemperature_cloudiness
+FILENAME=meteo_data.hac
+FILETYPE=6
+METHOD=3
+OPERAND=+
+
+QUANTITY =airpressure_windx_windy
+FILENAME =Typhoon.spw
+FILETYPE =5
+METHOD =1
+OPERAND =+
